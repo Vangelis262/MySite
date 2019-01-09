@@ -20,6 +20,32 @@ body {
     background-color: ##f0f0f0;
 }
 
+.section {
+    align-content: space-between;
+}
+
+
+.section--light {
+    background: #f0f0f0;
+}
+
+.u-pb-25 {
+    padding-bottom: 25px;
+}
+
+.u-pt-20 {
+    padding-top: 20px;
+}
+
+.center {
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 10px;
+}
+
+
+
+
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
