@@ -31,6 +31,72 @@ body {
     align-content: space-between;
 }
 
+.section--billboard {
+    background-color: rgba(0, 0, 0, 0);
+    background-position-x: 50%;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-image: url("../img/bg-billboard.jpg");
+    background-origin: padding-box;
+    background-clip: border-box;
+    background-size: cover;
+}
+
+
+.billboard__container {
+    padding-top: 75px;
+    padding-bottom: 70px;
+}
+
+.u-pb-50 {
+    padding-bottom: 50px;
+}
+
+.u-pb-30 {
+    padding-bottom: 50px;
+}
+
+.description--md {
+    font-size: 29px;
+    line-height: 1.24;
+    letter-spacing: .04em;
+}
+
+
+.description--inverse {
+    color: #fff;
+}
+
+.description--align-left {
+    text-align: left;
+}
+
+.heading--xl {
+    font-size: 50px;
+}
+
+.heading--inverse {
+    color: #fff;
+}
+
+.heading--light {
+    font-family: Helvetica,sans-serif;
+    font-weight: 400;
+}
+
+.billboard__desc {
+   align-self: flex-end;
+   flex: 0 0 350px;
+}
+
+.billboard__sitename {
+    flex: 0 0 470px;
+    align-self: flex-start;
+    text-align: left;
+    letter-spacing: -.018em;
+}
+
 
 .section--light {
     background: #f0f0f0;
