@@ -47,6 +47,7 @@ body {
 .billboard__container {
     padding-top: 75px;
     padding-bottom: 70px;
+    justify-content: space-between;
 }
 
 .u-pb-50 {
