@@ -27,6 +27,14 @@ body {
 
 }
 
+
+.svtrusted {
+    display: block;
+    text-align: center;
+    width: 1600px;
+}
+
+
 .section {
     align-content: space-between;
 }
