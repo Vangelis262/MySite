@@ -29,11 +29,15 @@ body {
 
 
 .svtrusted {
-    display: block;
-    text-align: center;
-    width: 1600px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
+.svt {
+    margin-top: 40px;
+    margin-left: 60px;
+}
 
 .section {
     align-content: space-between;
